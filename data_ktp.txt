@@ -1,0 +1,16 @@
+Data KTP ke-1
+NIK: 299020394495
+Nama: fisa
+Tempat/Tgl Lahir: bantul/03 juni 2006
+Jenis Kelamin: Perempuan
+Golongan Darah: A
+Alamat: bantul
+RT/RW: 1
+Kel/Desa: kragilan
+Kecamatan: banguntapan
+Agama: Islam
+Status Perkawinan: belummkawin
+Pekerjaan: tidak ada
+Kewarganegaraan: indonesia
+Berlaku Hingga: seuumur hidup
+========================================
